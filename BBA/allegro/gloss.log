@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : bba_ef.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Mon Nov 16 15:42:33 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Line Smooth glossing in progress.
+Started on Mon Nov 16 15:42:33 2026
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.001.
+
+ Maximum 45 limit is -0.001.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Nov 16 15:42:33 2026
+
+ - 0 - Error(s) from Line smooth Glossing
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

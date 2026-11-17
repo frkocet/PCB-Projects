@@ -1,0 +1,221 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : bba_ef.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Mon Nov 16 16:05:47 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+ WARNING: Generating metric output data from an english database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP_COPPER >
+     TO FILE < C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/TOP_COPPER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  RECTANGLE  0.50089     x 1.46129       0.000 NO     DARK 
+  RECTANGLE  0.50089     x 1.46129      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 1.24460       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.06680     x 1.34620       0.000 NO     DARK 
+  RECTANGLE  1.06680     x 1.34620      90.000 NO     DARK 
+  RECTANGLE  1.11120     x 0.60071       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  2.10820     x 1.39700       0.000 NO     DARK 
+  RECTANGLE  5.10009     x 0.80010       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     TOP_COPPER created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_COPPER >
+     TO FILE < C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/BOTTOM_COPPER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     BOTTOM_COPPER created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SOLDERMASK >
+     TO FILE < C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/TOP_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  RECTANGLE  0.50089     x 1.46129       0.000 NO     DARK 
+  RECTANGLE  0.50089     x 1.46129      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 1.24460       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.06680     x 1.34620       0.000 NO     DARK 
+  RECTANGLE  1.06680     x 1.34620      90.000 NO     DARK 
+  RECTANGLE  1.11120     x 0.60071       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  2.10820     x 1.39700       0.000 NO     DARK 
+  RECTANGLE  5.24990     x 0.95001       0.000 NO     DARK 
+  OBLONG     3.21600     x 1.70800       0.000 NO     DARK 
+  OBLONG     3.21600     x 1.70800      90.000 NO     DARK 
+
+     TOP_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDERMASK >
+     TO FILE < C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/BOTTOM_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  OBLONG     3.21600     x 1.70800       0.000 NO     DARK 
+  OBLONG     3.21600     x 1.70800      90.000 NO     DARK 
+
+     BOTTOM_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SILKSCREEN >
+     TO FILE < C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/TOP_SILKSCREEN.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15001                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     TOP_SILKSCREEN created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP_COPPER created with warnings
+        BOTTOM_COPPER created with warnings
+        TOP_SOLDERMASK created with warnings
+        BOTTOM_SOLDERMASK created with warnings
+        TOP_SILKSCREEN created with warnings
+
+ ARTWORK had warnings

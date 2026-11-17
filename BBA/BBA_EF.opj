@@ -1,0 +1,206 @@
+(ExpressProject "BBA_EF"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[11/16/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\users\ethan.frketich\downloads\project 1_barebones arduino\learnpcbdesignorcad.olb"
+        (Type "Schematic Library"))
+      (File "c:\users\ethan.frketich\downloads\pj-007\pj-007.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\bba_ef.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Allegro Netlist Output Board File" ".\allegro\bba_ef.brd")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Layout"
+    (File ".\allegro\bba_ef.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\bba_ef.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\BBA_EF_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\BBA_EF_OUTPUT\BOM.SCH.CSV"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\allegro\genfeed.log")))
+  (PartMRUSelector
+    (PJ-007
+      (FullPartName "PJ-007.Normal")
+      (LibraryName "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PJ-007\PJ-007.OLB")
+      (DeviceIndex "0"))
+    (+5.0V
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER R/A 6POS 2.54MM"
+      (FullPartName "CONN HEADER R/A 6POS 2.54MM.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 9POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 9POS 2.54MM.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 2POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 2POS 2.54MM.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 16POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 16POS 2.54MM.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 0.1uF 50V X7R 0805"
+      (FullPartName "CAP CER 0.1uF 50V X7R 0805.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 1uF 25V X7R 0805"
+      (FullPartName "CAP CER 1uF 25V X7R 0805.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 4POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 4POS 2.54MM.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("R 10K OHM 1% 1/8W 0603"
+      (FullPartName "R 10K OHM 1% 1/8W 0603.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("RESONATOR 16.0MHZ 22PF SMD"
+      (FullPartName "RESONATOR 16.0MHZ 22PF SMD.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("SWITCH TACTILE SPST-NO 0.05A 24"
+      (FullPartName "SWITCH TACTILE SPST-NO 0.05A 24.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("IC MCU 8BIT 32KB FLASH 32TQFP"
+      (FullPartName "IC MCU 8BIT 32KB FLASH 32TQFP.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("LED GREEN 0805 SMD"
+      (FullPartName "LED GREEN 0805 SMD.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN POWER JACK 2.1MM ID SOLDER"
+      (FullPartName "CONN POWER JACK 2.1MM ID SOLDER.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("R 1K OHM 1% 1/8W 0603"
+      (FullPartName "R 1K OHM 1% 1/8W 0603.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("DIODE 100V 300MA SOD12"
+      (FullPartName "DIODE 100V 300MA SOD12.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("IC REG LINEAR 5V 300MA SOT23-5"
+      (FullPartName "IC REG LINEAR 5V 300MA SOT23-5.Normal")
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    (MyTitleBlock
+      (LibraryName
+         "C:\USERS\ETHAN.FRKETICH\DOWNLOADS\PROJECT 1_BAREBONES ARDUINO\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\bba_ef.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 256 0 575"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1017 24 593")
+        (Scroll "0 0")
+        (Zoom "102")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ETHAN.FRKETICH\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\BBA_EF\BBA_EF.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "ethan.frketich")
+  (ISPCBBASICLICENSE "false"))

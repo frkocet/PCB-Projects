@@ -1,0 +1,31 @@
+M48
+INCH,TZ
+T01C.03937
+;EXTENTS: 0.000   0.000   21.000  17.000  
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ARTWORK/bba_ef_1-2.rou for board C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/#Taaaawh09316.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X808316Y613909
+G40
+M15
+G01X810284Y613909
+M16
+G00X808316Y633200
+G40
+M15
+G01X810284Y633200
+M16
+G00X798276Y623161
+G40
+M15
+G01X798276Y625129
+M16
+G40
+M30

@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC2581 Export                                                   )
+(                                                                     )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Mon Nov 16 16:09:59 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+Collecting net list ...
+
+
+
+Collecting package defintions ...
+
+
+
+Collecting component descriptions ...
+
+
+
+Collecting BOM items ...
+
+
+
+Property configuration file: C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/ipc2581_attr_config.atr
+IPC2581 file: C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/MFG/bba_ef.xml
+IPC2581 version: IPC2581-B
+BRD file: C:/Users/ethan.frketich/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd
+IPC2581 units: MILLIMETER
+Global package pin1 orientation: OTHER
+Default symbol height: 15.00
+Export drill information?: YES
+Export backdrill information?: NO
+Export BOM information?: YES
+Export component descriptions?: YES
+Export component packages?: YES
+Export land patterns?: YES
+Export device descriptions?: YES
+Export net list?: YES
+Export hierarchical layer/stack instance?: NO
+Export Outer Copper Layers?: YES
+Export Inner Layers?: YES
+Export Documentation Layers?: YES
+Export Miscellaneous Image Layers?: YES
+Export SolderMask/SolderPaste Legend Layers?: YES
+Export vector text?: YES
+Export cavities?: NO
+Export padstack definitions?: NO
+Export zip file?: YES
+a2ipc2581 complete.

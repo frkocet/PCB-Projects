@@ -1,0 +1,280 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5.0V        pins ADDED TO this new net
+                                 C2.2           J1.2           J3.3           
+                                 J6.1           J6.7           R1.2           
+                                 R2.2           R3.2           U1.5           
+                                 U2.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +JACK        pins ADDED TO this new net
+                                 J2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A0           pins ADDED TO this new net
+                                 J5.8           U2.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A1           pins ADDED TO this new net
+                                 J5.7           U2.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A2           pins ADDED TO this new net
+                                 J5.6           U2.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A3           pins ADDED TO this new net
+                                 J5.5           U2.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A4           pins ADDED TO this new net
+                                 J5.4           U2.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A5           pins ADDED TO this new net
+                                 J5.3           U2.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A6           pins ADDED TO this new net
+                                 J5.2           U2.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A7           pins ADDED TO this new net
+                                 J5.1           U2.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AREF         pins ADDED TO this new net
+                                 J5.10          U2.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D2           pins ADDED TO this new net
+                                 J6.4           U2.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D3           pins ADDED TO this new net
+                                 J6.3           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D4           pins ADDED TO this new net
+                                 J6.2           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  D8           pins ADDED TO this new net
+                                 J7.4           U2.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D9           pins ADDED TO this new net
+                                 J5.16          U2.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10          pins ADDED TO this new net
+                                 J5.15          U2.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D11          pins ADDED TO this new net
+                                 J5.14          U2.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D12          pins ADDED TO this new net
+                                 J5.13          U2.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D13          pins ADDED TO this new net
+                                 J5.12          U2.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXT_RESET    pins ADDED TO this new net
+                                 C3.2           J3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C4.1           
+                                 D2.1           D3.1           J1.1           
+                                 J2.2           J3.1           J4.2           
+                                 J4.3           J5.9           J5.11          
+                                 J6.8           SW1.1          SW1.2          
+                                 U1.2           U2.3           U2.5           
+                                 U2.21          Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00514       pins ADDED TO this new net
+                                 D1.2           J4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00521       pins ADDED TO this new net
+                                 C1.2           D1.1           U1.1           
+                                 U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09752       pins ADDED TO this new net
+                                 D3.2           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09779       pins ADDED TO this new net
+                                 D2.2           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12318       pins ADDED TO this new net
+                                 J7.1           U2.9           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N12322       pins ADDED TO this new net
+                                 J7.2           U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12326       pins ADDED TO this new net
+                                 J7.3           U2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12932       pins ADDED TO this new net
+                                 C4.2           U2.4           U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N_6          pins ADDED TO this new net
+                                 J3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RST          pins ADDED TO this new net
+                                 C3.1           J6.9           R3.1           
+                                 SW1.3          SW1.4          U2.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX           pins ADDED TO this new net
+                                 J3.4           J6.6           U2.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX           pins ADDED TO this new net
+                                 J3.5           J6.5           U2.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL1_OUT    pins ADDED TO this new net
+                                 U2.7           Y1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL2_IN     pins ADDED TO this new net
+                                 U2.8           Y1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF
+ CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A
+ CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2
+ CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A
+ CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A
+ CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16
+ CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PJ-003A
+ DIODE 100V 300MA SOD12_SOD123_DIODE
+ IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB
+ IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO
+ LED GREEN 0805 SMD_LED0805N_CML_LED GREEN
+ R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K
+ R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K
+ RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ
+ SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF 
+ C2                  CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF 
+ C3                  CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF 
+ C4                  CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF 
+ D1                  DIODE 100V 300MA SOD12_SOD123_DIODE 
+ D2                  LED GREEN 0805 SMD_LED0805N_CML_LED GREEN 
+ D3                  LED GREEN 0805 SMD_LED0805N_CML_LED GREEN 
+ J1                  CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2 
+ J2                  CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2 
+ J3                  CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A 
+ J4                  CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PJ-003A 
+ J5                  CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16 
+ J6                  CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A 
+ J7                  CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A 
+ R1                  R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K 
+ R2                  R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K 
+ R3                  R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K 
+ SW1                 SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO 
+ U1                  IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO 
+ U2                  IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB 
+ Y1                  RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           XY             (140,140)
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           XY             (330,140)
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           XY             (270,370)
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           XY             (180,600)
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           XY             (110,80)
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           XY             (380,170)
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           XY             (430,170)
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           XY             (670,90)
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           XY             (770,80)
+ J3.6                           PRIM_FILE      .\pstchip.dat
+ J3.6                           XY             (900,80)
+ J4.3                           PRIM_FILE      .\pstchip.dat
+ J4.3                           XY             (40,180)
+ J5.9                           PRIM_FILE      .\pstchip.dat
+ J5.9                           XY             (890,170)
+ J6.9                           PRIM_FILE      .\pstchip.dat
+ J6.9                           XY             (720,210)
+ J7.4                           PRIM_FILE      .\pstchip.dat
+ J7.4                           XY             (530,550)
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           XY             (380,110)
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           XY             (430,110)
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           XY             (230,330)
+ SW1.4                          PRIM_FILE      .\pstchip.dat
+ SW1.4                          XY             (80,380)
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U1.3                           XY             (210,80)
+ U2.6                           PRIM_FILE      .\pstchip.dat
+ U2.6                           XY             (270,410)
+ Y1.3                           PRIM_FILE      .\pstchip.dat
+ Y1.3                           XY             (120,510)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../SPB_Data/cdssetup/workspace/projects/bba_ef/allegro/bba_ef.brd        |
+|                                                    Mon Nov 16 10:06:47 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     105                                        |
+|       Comp definitions added:      15                                        |
+|       Components added      :      21                                        |
+|       Slot property added   :      42                                        |
+|                                                                              |
+|   Total ECO changes reported:     183                                        |
+|------------------------------------------------------------------------------|

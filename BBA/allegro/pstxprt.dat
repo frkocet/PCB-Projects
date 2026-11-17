@@ -1,0 +1,241 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Nov-16-2026 at 13:33:19 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BBA_EF';
+ POST_TIME='Jun 12 2024 12:32:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS200@LEARNPCBDESIGNORCAD.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins200@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins200@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,140)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS216@LEARNPCBDESIGNORCAD.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins216@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins216@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,140)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS12886@LEARNPCBDESIGNORCAD.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins12886@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins12886@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,370)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS12916@LEARNPCBDESIGNORCAD.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins12916@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins12916@learnpcbdesignorcad.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,600)',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE 100V 300MA SOD12_SOD123_DIODE':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS303@LEARNPCBDESIGNORCAD.DIODE 100V 300MA SOD12.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins303@learnpcbdesignorcad.\diode 100v 300ma sod12.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins303@learnpcbdesignorcad.\diode 100v 300ma sod12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,80)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED GREEN 0805 SMD_LED0805N_CML_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS9646@LEARNPCBDESIGNORCAD.LED GREEN 0805 SMD.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins9646@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins9646@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,170)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED GREEN 0805 SMD_LED0805N_CML_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS9666@LEARNPCBDESIGNORCAD.LED GREEN 0805 SMD.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins9666@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins9666@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,170)',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS14997@LEARNPCBDESIGNORCAD.CONN HEADER VERT 2POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins14997@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins14997@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,90)',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS14951@LEARNPCBDESIGNORCAD.CONN HEADER VERT 2POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins14951@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins14951@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,80)',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS14971@LEARNPCBDESIGNORCAD.CONN HEADER R/A 6POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins14971@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins14971@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,80)',
+ SECTION='';
+
+PART_NAME
+ J4 'PJ-007_SAMESKY_PJ-007_PJ-007':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS16392@PJ-007.PJ-007.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins16392@\pj-007\.\pj-007.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins16392@\pj-007\.\pj-007.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,180)',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS15087@LEARNPCBDESIGNORCAD.CONN HEADER VERT 16POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins15087@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins15087@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,170)',
+ SECTION='';
+
+PART_NAME
+ J6 'CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS15159@LEARNPCBDESIGNORCAD.CONN HEADER VERT 9POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins15159@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins15159@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,210)',
+ SECTION='';
+
+PART_NAME
+ J7 'CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS10965@LEARNPCBDESIGNORCAD.CONN HEADER VERT 4POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins10965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins10965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,550)',
+ SECTION='';
+
+PART_NAME
+ R1 'R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS340@LEARNPCBDESIGNORCAD.R 1K OHM 1% 1/8W 0603.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins340@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins340@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,110)',
+ SECTION='';
+
+PART_NAME
+ R2 'R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS356@LEARNPCBDESIGNORCAD.R 1K OHM 1% 1/8W 0603.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins356@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins356@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,110)',
+ SECTION='';
+
+PART_NAME
+ R3 'R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS10936@LEARNPCBDESIGNORCAD.R 10K OHM 1% 1/8W 0603.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins10936@learnpcbdesignorcad.\r 10k ohm 1% 1/8w 0603.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins10936@learnpcbdesignorcad.\r 10k ohm 1% 1/8w 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,330)',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS10481@LEARNPCBDESIGNORCAD.SWITCH TACTILE SPST-NO 0.05A 24.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins10481@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins10481@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,380)',
+ SECTION='';
+
+PART_NAME
+ U1 'IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS94@LEARNPCBDESIGNORCAD.IC REG LINEAR 5V 300MA SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins94@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins94@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,80)',
+ SECTION='';
+
+PART_NAME
+ U2 'IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS10100@LEARNPCBDESIGNORCAD.IC MCU 8BIT 32KB FLASH 32TQFP.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins10100@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins10100@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,410)',
+ SECTION='';
+
+PART_NAME
+ Y1 'RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ':;
+
+SECTION_NUMBER 1
+ '@BBA_EF.SCHEMATIC1(SCH_1):INS10616@LEARNPCBDESIGNORCAD.RESONATOR 16.0MHZ 22PF SMD.NORMAL(CHIPS)':
+ C_PATH='@bba_ef.schematic1(sch_1):ins10616@learnpcbdesignorcad.\resonator 16.0mhz 22pf smd.normal\(chips)',
+ P_PATH='@bba_ef.schematic1(sch_1):page1_ins10616@learnpcbdesignorcad.\resonator 16.0mhz 22pf smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,510)',
+ SECTION='';
+
+END.

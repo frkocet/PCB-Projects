@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : bba_ef.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Mon Nov 16 15:48:07 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 100.000
+Min Line Length is 0.000
+Allowing 0 and 90 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+Text string 'R2' is not at a suitable location
+(location: 7850.000, 6500.000)
+Text string 'C2' is not at a suitable location
+(location: 7850.000, 6125.000)
+
+Total Failures: 2
+
+Log End
+

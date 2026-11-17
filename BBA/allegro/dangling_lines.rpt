@@ -1,0 +1,47 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : bba_ef.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Mon Nov 16 15:05:07 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  +5.0V                TOP                   10.500     *(7895.000 6150.000) to  (7884.500 6150.000)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +5.0V                VIA                  (7917.500 6450.000) TOP/BOTTOM 
+  +5.0V                VIA                  (7917.500 6525.000) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +5.0V                VIA                  (7917.500 6450.000) TOP/BOTTOM 
+  +5.0V                VIA                  (7917.500 6525.000) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       1
+  Total dangling vias:        2
+  Total antenna vias:         2
